@@ -2,3 +2,4 @@
 ~*.lck
 *#
 *.zip
+fp*cache

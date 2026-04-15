@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "exV1C05S03.kicad_pro",
+    "filename": "exV1C05S02.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -603,7 +603,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "exV1C05S03.wbk"
+      "workbook_filename": "exV1C05S02.wbk"
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
