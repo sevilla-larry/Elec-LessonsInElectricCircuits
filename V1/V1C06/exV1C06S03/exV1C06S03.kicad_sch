@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "aac4f3a6-14a3-4da2-8c20-38f6484893a9")
+	(uuid "53229822-a34a-4a0b-9992-ca83f5bcb741")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:Battery_Cell"
@@ -409,557 +409,215 @@
 		)
 	)
 	(junction
-		(at 93.98 55.88)
+		(at 50.8 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a4560fef-a268-4875-830d-aeb5f6e4f881")
+		(uuid "4ebf020b-25cb-4830-9691-11d6f9861574")
 	)
 	(junction
-		(at 64.77 44.45)
+		(at 129.54 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9505801-dad5-403f-8f81-9056ff2144d5")
+		(uuid "9b4628f8-ca70-4b04-ae29-a31506f79587")
 	)
 	(junction
-		(at 93.98 44.45)
+		(at 106.68 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "baa8f48f-9b37-4b34-83b3-0a709fcd8ed9")
+		(uuid "bf8eb5b6-307f-4e15-bb45-b474d2306530")
 	)
 	(junction
-		(at 64.77 55.88)
+		(at 129.54 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bd5a3d06-a427-4ebf-8732-c430c40821b0")
+		(uuid "f676412f-a68c-4ffd-9cee-b8a50b64d5a0")
 	)
 	(junction
-		(at 44.45 55.88)
+		(at 106.68 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c7272036-3b1b-416f-915e-bd6f4d658ad7")
+		(uuid "fd53d983-0834-4eec-a1fc-b232f4d0fe16")
 	)
 	(wire
 		(pts
-			(xy 90.17 17.78) (xy 90.17 44.45)
+			(xy 50.8 71.12) (xy 106.68 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0707af4e-6eda-421e-b05b-0f603b73d473")
+		(uuid "10c9e938-261b-4330-abab-ff67b1dada4d")
 	)
 	(wire
 		(pts
-			(xy 44.45 55.88) (xy 64.77 55.88)
+			(xy 129.54 86.36) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "200bf66d-7547-4a71-920d-babdd4da204a")
+		(uuid "2a67aa42-3a9f-4fca-88e1-3b5c943dc7c5")
 	)
 	(wire
 		(pts
-			(xy 93.98 44.45) (xy 93.98 48.26)
+			(xy 50.8 92.71) (xy 50.8 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "229c1651-31b9-46ca-8b8e-ae17bf1af2b2")
+		(uuid "4499df63-5178-4c46-b604-4b944420ece1")
 	)
 	(wire
 		(pts
-			(xy 78.74 17.78) (xy 90.17 17.78)
+			(xy 50.8 85.09) (xy 50.8 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "32ad0395-5e0c-4b1e-a292-2bd0fe5d94f6")
+		(uuid "58f61ce9-a5f6-4233-9f6c-aba248512d24")
 	)
 	(wire
 		(pts
-			(xy 64.77 36.83) (xy 64.77 44.45)
+			(xy 106.68 71.12) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3db56fb4-856c-485a-8637-53e407d1db50")
+		(uuid "681cf1c7-4380-4d18-8bb8-0914ef38876d")
 	)
 	(wire
 		(pts
-			(xy 44.45 55.88) (xy 44.45 67.31)
+			(xy 129.54 71.12) (xy 149.86 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "45977d95-eb37-45aa-a633-ac16b76c82c1")
+		(uuid "6b192790-6a37-445a-acae-dd1fa3aa9a18")
 	)
 	(wire
 		(pts
-			(xy 44.45 48.26) (xy 44.45 55.88)
+			(xy 149.86 109.22) (xy 129.54 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "50588c6d-ad44-4b2a-b344-b045136f177e")
+		(uuid "7a981bb1-efb0-4d80-b000-0fa692a9fde4")
 	)
 	(wire
 		(pts
-			(xy 90.17 44.45) (xy 93.98 44.45)
+			(xy 106.68 71.12) (xy 106.68 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "518ff20c-8def-412c-889b-94ef60fc8059")
+		(uuid "8aa37fd0-023b-4ff3-8399-1249b304927b")
 	)
 	(wire
 		(pts
-			(xy 115.57 46.99) (xy 115.57 55.88)
+			(xy 129.54 109.22) (xy 106.68 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6339424b-7abb-4aee-a352-6689bff84cd4")
+		(uuid "933abb66-e264-4ceb-b198-96dbad99cd6a")
 	)
 	(wire
 		(pts
-			(xy 93.98 30.48) (xy 115.57 30.48)
+			(xy 149.86 93.98) (xy 149.86 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a416ba95-2508-461b-8534-c4eaa9c5a699")
+		(uuid "97eaa753-b5bd-43b6-a7fe-edb819224e3e")
 	)
 	(wire
 		(pts
-			(xy 93.98 38.1) (xy 93.98 44.45)
+			(xy 106.68 93.98) (xy 106.68 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "abb65105-7163-480a-98b3-19ffb7cab237")
+		(uuid "a184f002-125a-41ab-948e-dc48341d3908")
 	)
 	(wire
 		(pts
-			(xy 44.45 40.64) (xy 44.45 29.21)
+			(xy 50.8 109.22) (xy 106.68 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bf28b558-f698-46a4-bfa7-5acc68758ed9")
+		(uuid "b2a0d542-01c9-4cae-a505-67706990aaed")
 	)
 	(wire
 		(pts
-			(xy 93.98 55.88) (xy 115.57 55.88)
+			(xy 129.54 93.98) (xy 129.54 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c155a7d8-2d64-4b70-a726-ca9b9ced6447")
+		(uuid "bb890f34-f7d5-469f-a606-ff5fd37f42a7")
 	)
 	(wire
 		(pts
-			(xy 64.77 44.45) (xy 64.77 48.26)
+			(xy 50.8 109.22) (xy 50.8 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c5127e48-aa93-40d2-b69c-80c86b31b1ac")
+		(uuid "f3e7d509-cf82-4a81-93a3-e002bfc38377")
 	)
 	(wire
 		(pts
-			(xy 64.77 55.88) (xy 93.98 55.88)
+			(xy 149.86 86.36) (xy 149.86 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1e160dd-a170-4479-887c-1009fecf1b26")
-	)
-	(wire
-		(pts
-			(xy 64.77 44.45) (xy 78.74 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d61be452-e466-4f9e-b251-7a3b43c7371f")
-	)
-	(wire
-		(pts
-			(xy 44.45 29.21) (xy 64.77 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9141de1-b5d6-4634-94c3-a329f8254669")
-	)
-	(wire
-		(pts
-			(xy 78.74 25.4) (xy 78.74 17.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2e4345a-268f-43a0-976d-b59fccefc195")
-	)
-	(wire
-		(pts
-			(xy 115.57 30.48) (xy 115.57 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdbb55ad-f5b3-4b8f-b4fc-530ce3118b7d")
+		(uuid "fd8c6f00-3ef4-4d7b-8d62-7d890799457a")
 	)
 	(symbol
-		(lib_id "Device:Battery_Cell")
-		(at 115.57 41.91 180)
+		(lib_id "Device:R")
+		(at 129.54 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2cd6ad4c-dac6-4163-a266-f76c5e270dc1")
-		(property "Reference" "BT2"
-			(at 111.76 45.0216 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "25"
-			(at 111.76 42.4816 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 115.57 43.434 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 115.57 43.434 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single-cell battery"
-			(at 115.57 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "V"
-			(at 115.57 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" "DC"
-			(at 115.57 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=+ 2=-"
-			(at 115.57 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bdbd3bba-0074-4d9d-b3f7-39cdad5ba810")
-		)
-		(pin "2"
-			(uuid "fa529e33-3907-46d5-b7bf-4647cb20d2d1")
-		)
-		(instances
-			(project "exV1C06S02"
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
-					(reference "BT2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 93.98 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f1217bc-6062-4c80-bd1b-ce0a06f16112")
-		(property "Reference" "R4"
-			(at 96.52 50.7999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "12 K"
-			(at 96.52 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.202 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 93.98 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3f3c6d7e-523d-4266-9e44-a7808b94e474")
-		)
-		(pin "1"
-			(uuid "cb1c1223-f0a3-47f5-b0f7-eb5a97c5be11")
-		)
-		(instances
-			(project ""
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 93.98 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79120e5a-5240-4d39-be0e-1fc9ee8e8664")
-		(property "Reference" "R3"
-			(at 96.52 33.0199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "13 K"
-			(at 96.52 35.5599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.202 34.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 93.98 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "55009c1b-193b-48e3-ad9e-6ef3bc03f3d1")
-		)
-		(pin "1"
-			(uuid "b1b3039f-282a-47af-bd04-a0d2808d76eb")
-		)
-		(instances
-			(project "exV1C06S02"
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 64.77 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "96f3bc82-f10a-4d30-8335-ec9c3afdebef")
-		(property "Reference" "R1"
-			(at 71.12 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "15 K"
-			(at 68.58 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.992 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 64.77 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 64.77 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "06657a95-6773-47fe-a84d-7e93c252dc96")
-		)
-		(pin "2"
-			(uuid "f971ce51-6bc9-4593-bcbc-a4885a858b6f")
-		)
-		(instances
-			(project ""
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 64.77 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "daa7224b-0597-4845-af65-d8d1781b062a")
+		(uuid "08494126-66e6-4a2e-b3c6-d7433f1fede3")
 		(property "Reference" "R2"
-			(at 71.12 52.07 90)
+			(at 132.08 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "20 K"
-			(at 68.58 52.07 90)
+		(property "Value" "3 K"
+			(at 132.08 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 62.992 52.07 90)
+			(at 127.762 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -968,7 +626,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 52.07 0)
+			(at 129.54 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -977,7 +635,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 64.77 52.07 0)
+			(at 129.54 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -986,14 +644,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "d9289597-6be0-488f-acab-495197b38026")
+			(uuid "9d11954c-915c-439e-ac8e-745d0254bfab")
 		)
 		(pin "1"
-			(uuid "f479f420-4ead-43f6-b3fd-7ca1c53feba6")
+			(uuid "2df56748-0ee3-4947-be17-2302c27db91b")
 		)
 		(instances
 			(project ""
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
+				(path "/53229822-a34a-4a0b-9992-ca83f5bcb741"
 					(reference "R2")
 					(unit 1)
 				)
@@ -1001,114 +659,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Battery_Cell")
-		(at 44.45 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e55e285a-9e49-4ff6-ab54-79c2c7450a7e")
-		(property "Reference" "BT1"
-			(at 48.26 42.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "35"
-			(at 48.26 45.1484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 44.196 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 44.196 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single-cell battery"
-			(at 44.45 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "V"
-			(at 44.45 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" "DC"
-			(at 44.45 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=+ 2=-"
-			(at 44.45 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd472020-e198-4553-baca-d6ea7a96b9a9")
-		)
-		(pin "2"
-			(uuid "4f8ebe8c-793d-4540-a2da-7a3f8a71a555")
-		)
-		(instances
-			(project ""
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
-					(reference "BT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 44.45 67.31 0)
+		(at 50.8 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f9f56883-9d83-4a38-aa48-0d74d4e0f543")
+		(uuid "2463fb2b-79f0-4d51-9982-64cf7e30e57b")
 		(property "Reference" "#PWR01"
-			(at 44.45 73.66 0)
+			(at 50.8 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1117,7 +678,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.45 72.39 0)
+			(at 50.8 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1125,7 +686,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 67.31 0)
+			(at 50.8 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1134,7 +695,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 67.31 0)
+			(at 50.8 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1143,7 +704,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 67.31 0)
+			(at 50.8 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1152,12 +713,249 @@
 			)
 		)
 		(pin "1"
-			(uuid "23fe7388-1acb-4a1f-830d-c56c87fb1e8c")
+			(uuid "968c639f-7877-4785-bb0d-7f097a8938c7")
 		)
 		(instances
 			(project ""
-				(path "/aac4f3a6-14a3-4da2-8c20-38f6484893a9"
+				(path "/53229822-a34a-4a0b-9992-ca83f5bcb741"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 149.86 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51413128-cfa3-4d83-ae71-f77c41146d23")
+		(property "Reference" "R3"
+			(at 152.4 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2 K"
+			(at 152.4 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.082 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 149.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "26462603-08f0-422e-b74c-5f0eef1bc3d8")
+		)
+		(pin "1"
+			(uuid "6e5a8377-0ccc-4a5a-95b9-6db1ac3f8fb7")
+		)
+		(instances
+			(project ""
+				(path "/53229822-a34a-4a0b-9992-ca83f5bcb741"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 106.68 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c7219aa-c9b5-49df-98bb-2927a59cb407")
+		(property "Reference" "R1"
+			(at 109.22 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1 K"
+			(at 109.22 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.902 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 106.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "afbb1cc1-06be-497e-bd2a-cb2fd9ed4812")
+		)
+		(pin "1"
+			(uuid "3bf420f2-d9aa-4501-be3d-93c39ff6771b")
+		)
+		(instances
+			(project ""
+				(path "/53229822-a34a-4a0b-9992-ca83f5bcb741"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Battery_Cell")
+		(at 50.8 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b926ff8a-f6be-41cd-9e54-352db3e0163a")
+		(property "Reference" "BT1"
+			(at 54.61 87.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6"
+			(at 54.61 89.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 88.646 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 88.646 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single-cell battery"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "DC"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 50.8 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c6718c1-3f23-4c00-908a-2957cbe6806d")
+		)
+		(pin "2"
+			(uuid "98bda82c-6be7-42e8-976e-6c085883b467")
+		)
+		(instances
+			(project ""
+				(path "/53229822-a34a-4a0b-9992-ca83f5bcb741"
+					(reference "BT1")
 					(unit 1)
 				)
 			)
