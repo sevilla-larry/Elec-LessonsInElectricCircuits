@@ -3,3 +3,6 @@
 *#
 *.zip
 fp*cache
+*-backups
+.history/*
+.vs/
